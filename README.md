@@ -1,6 +1,6 @@
 # Hi there! I'm Mario Vargas 👋
 
-I am a systems engineer who has worked as a sysadmin, solutions architect, DevOps Engineer, and currently as a Data Engineer.
+I'm a System Engineer who has worked as a SysAdmin, DevOps Engineer, and currently as a Data Engineer.
 
 ---
 
